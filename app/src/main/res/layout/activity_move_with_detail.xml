@@ -1,0 +1,23 @@
+<!-- activity_move_with_detail.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tv_object_received"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/object_receive"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textAlignment="center"/>
+
+    <include
+        android:id="@+id/card_view_detail"
+        layout="@layout/item_detail_gadget"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_object_received" />
+</RelativeLayout>

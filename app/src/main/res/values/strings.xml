@@ -1,0 +1,176 @@
+<resources>
+    <string name="app_name">Toko Tirta Jaya</string>
+
+    <string name="gadget_name">Nama Gadget</string>
+    <string name="description">Deskripsi</string>
+    <string name="spesification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="battery">Battery</string>
+    <string name="specsdisplay">Spek Display</string>
+    <string name="specsbattery">Spek Battery</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="search">Pencarian</string>
+    <string name="object_receive">Detail Product</string>
+    <string name="aboutme">About Me</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+
+    <string-array name="data_name_smartphone">
+        <item>iPhone XS</item>
+        <item>iPhone 14 Pro</item>
+        <item>iPhone 7</item>
+        <item>Samsung S22 Ultra</item>
+        <item>Samsung S20 Fe</item>
+        <item>Redmi Note 10 Pro</item>
+        <item>Redmi Note 4</item>
+        <item>Redmi 12</item>
+        <item>Samsung S9+</item>
+        <item>Samsung S10 5G</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>iPhone XS adalah ponsel pintar unggulan Apple dengan layar Super Retina 5.8 inci, chip A12 Bionic, kamera ganda 12MP, dan fitur keamanan Face ID. Desain ramping, tahan air, dan menjalankan iOS terbaru, menjadikannya pilihan premium bagi pengguna yang menginginkan kombinasi kinerja tinggi dan estetika modern.</item>
+        <item>iPhone 14 Pro. Memotret detail menakjubkan dengan kamera Utama 48 MP. Nikmati iPhone dalam cara yang sepenuhnya baru dengan layar yang Selalu Aktif dan Dynamic Island. Deteksi Tabrakan, sebuah fitur keselamatan baru, memanggil bantuan saat Anda tak bisa.</item>
+        <item>iPhone 7, dirilis pada September 2016, menampilkan layar Retina 4.7 inci, chip A10 Fusion, kamera 12MP, dan keamanan dengan Touch ID. Desain elegan, tahan air, dan menjalankan iOS terbaru saat peluncurannya. Meskipun telah beberapa tahun, tetap menjadi pilihan yang solid dengan kinerja yang baik.</item>
+        <item>Samsung Galaxy S22 Ultra menjadi andalan seri S22. Ini adalah ponsel seri S pertama yang menyertakan S Pen Samsung. Spesifikasinya terbaik termasuk layar Dynamic AMOLED 6,8 inci dengan kecepatan refresh 120Hz, prosesor Snapdragon 8 Gen 1, baterai 5000mAh, RAM hingga 12gig, dan penyimpanan 1TB.</item>
+        <item>Baterai Galaxy S20 FE yang kuat sebesar 4.500mAh, kinerja AP yang kuat, dan pengisian daya Super Cepat memastikan Anda dapat terus melakukan apa yang Anda sukai, tanpa mengkhawatirkan masa pakai baterai[9]. Dan karena kehidupan tidak dapat diprediksi, Galaxy S20 FE memiliki ketahanan air dan debu dengan peringkat IP68.</item>
+        <item>Redmi Note 10 Pro adalah ponsel unggulan Xiaomi dengan layar AMOLED 6.67 inci, kamera belakang quad 108MP, prosesor Snapdragon 732G, dan baterai besar dengan pengisian cepat 33W. Menawarkan kombinasi performa, kamera canggih, dan harga yang terjangkau.</item>
+        <item>Redmi Note 4 adalah ponsel cerdas dari Xiaomi yang diluncurkan pada 2017. Menampilkan layar 5.5 inci, prosesor Snapdragon 625, dan baterai berkapasitas besar. Kamera belakang 13MP memberikan hasil foto yang baik, sementara desain metal memberikan kesan premium pada ponsel ini. Meskipun sudah beberapa tahun, Redmi Note 4 tetap dihargai untuk kinerja stabil dan daya tahan baterai yang baik.</item>
+        <item>Performa Redmi 12 terasa begitu mulus dan memuaskan bagi semua pengguna, baik pemain game, pengguna aktif media sosial, maupun penikmat pengalaman penggunaan yang cepat dan responsif. Selain itu, AdaptiveSync di Redmi 12 akan mengoptimalkan refresh rate secara otomatis sesuai dengan aktivitas penggunaan Anda.</item>
+        <item>Samsung Galaxy S9+ adalah ponsel pintar unggulan yang dirilis oleh Samsung pada tahun 2018. Dengan layar Super AMOLED 6.2 inci, prosesor Exynos 9810, dan kamera belakang ganda 12MP, S9+ menawarkan pengalaman visual yang luar biasa dan kemampuan fotografi yang baik. Desain elegan, fitur keamanan iris dan pemindai sidik jari, serta kemampuan merekam video Super Slow-Mo, menjadikan Galaxy S9+ pilihan yang menarik bagi pengguna yang mencari ponsel kelas atas.</item>
+        <item>Samsung Galaxy S10 adalah ponsel pintar unggulan yang dirilis oleh Samsung pada tahun 2019. Dengan layar Dynamic AMOLED 6.1 inci, prosesor Exynos 9820, dan kamera belakang triple 12MP, S10 menawarkan pengalaman visual yang brilian dan kemampuan fotografi yang handal. Desain elegan tanpa bingkai, pemindai sidik jari di dalam layar, dan fitur pengisian daya nirkabel adalah beberapa keunggulan dari Galaxy S10, menjadikannya pilihan menarik di segmen ponsel flagship.</item>
+    </string-array>
+
+    <string-array name="data_photo_smartphone">
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/4e/IPhone_XS.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/d/d4/IPhone_14_Pro_-_3.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/a/a0/Apple_iphone_7_%2852674004688%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/4/46/SAMSUNG_Galaxy_S22_Ultra_BLACK_%286%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/b/b2/%EC%82%BC%EC%84%B1_%EA%B0%A4%EB%9F%AD%EC%8B%9C_S20_FE_%28cropped%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/8/84/Redmi_Note_10_Pro_Back_%282%29.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/7/76/Xiaomi_Redmi_Note_4_Back.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/8/8d/Redmi_12_back.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/e/e7/Samsung_Galaxy_S9%2B_standby_mode%2C_charging%2C_cropped.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/9/99/SAMSUNG_Galaxy_S10_5G_%282%29.jpg</item>
+    </string-array>
+
+    <string-array name="data_display">
+        <item>
+            Layar Super Retina HD.
+            Layar OLED Multi-Touch sepenuhnya 5,8 inci (diagonal)
+            Layar HDR.
+            Resolusi 2436 x 1125 piksel pada 458 ppi.
+            Rasio kontras 1.000.000:1 (umum)
+            Layar True Tone.
+            Layar warna luas (P3)
+            3D Touch.
+        </item>
+        <item>
+            Layar Super Retina XDR.
+            Layar OLED menyeluruh 6,1 inci (diagonal)
+            Resolusi 2556 x 1179 piksel pada 460 ppi.
+            Dynamic Island.
+            Layar yang Selalu Aktif.
+            Teknologi ProMotion dengan refresh rate adaptif hingga 120 Hz.
+            Layar HDR.
+            True Tone.
+        </item>
+        <item>
+            Layar Retina HD.
+            Layar lebar LCD.
+            Multi-Touch 4,7 inci (diagonal) dengan teknologi IPS.
+            Resolusi 1334 x 750 piksel pada 326 ppi.
+            Rasio kontras 1400:1 (umum)
+            Layar warna luas (P3)
+            Kecerahan maks 625 cd/m2 (umum)
+            Piksel domain-ganda untuk sudut pandang yang luas.
+        </item>
+        <item>
+            6,8 inci
+            Dynamic AMOLED 2X
+            1440 x 3080 pixel Refresh rate 120Hz
+            Dilapisi Gorilla Glass Victus+
+        </item>
+        <item>
+            Size (Main_Display) 158.3mm (6.2" full rectangle) / 154.1mm (6.1" rounded corners)
+            Resolution (Main Display) 3200 x 1440 (Quad HD+)
+            Technology (Main Display) Dynamic AMOLED 2X.
+            Color Depth (Main Display) 16M.
+        </item>
+        <item>
+            6,67" Super AMOLED DotDisplay
+            Resolusi: 2400 x 1080 FHD+
+            PPI 395
+            Rasio kontras: 4.500.000:1
+            Kecerahan: HBM 700 nits (typ), 1200 nits kecerahan puncak (typ)
+            Gamut warna DCI-P3
+            8-bit warna
+            HDR 10
+            Rasio menyegarkan layar: 120Hz
+            Rasio pengambilan sampel sentuh: 240Hz
+            Mode baca 3.0
+            Mode Sinar matahari 2.0
+            SGS Eye Care Display Certification
+            Kinerja SGS diuji: Seamless Pro
+        </item>
+        <item>
+            Ukuran Layar	5.5"
+            Kedalaman Piksel	401ppi
+            Resolusi Layar	1080 x 1920pixels
+            Anti Air	Ya
+            Scratch Resistant	Ya
+            Teknologi Layar	IPS-LCD
+        </item>
+        <item>
+            Ukuran layar : 6.79"
+            Material layar : LCD
+            Resolusi : 2460×1080
+            Kecerahan maksimal : 550 nit
+            Refresh rate : 90 Hz
+        </item>
+        <item>
+            6,2 inci Quad HD + Curved Super AMOLED, rasio 18.5:99,10, 529ppi
+        </item>
+        <item>
+            Ukuran Layar 6.7"
+            Kedalaman Piksel 502ppi
+            Resolusi Layar	1440 x 3040 pixels
+            Teknologi Layar	Dynamic AMOLED
+        </item>
+    </string-array>
+
+    <string-array name="data_battery">
+        <item>
+            3174 mAh
+        </item>
+        <item>
+            3.200 mAh
+        </item>
+        <item>
+            1960mAh
+        </item>
+        <item>
+            5000 mAh
+        </item>
+        <item>
+            4500 mAH
+        </item>
+        <item>
+            5.020 mAh
+        </item>
+        <item>
+            4.100 mAh
+        </item>
+        <item>
+            5.000 mAh
+        </item>
+        <item>
+            3.500 mAh
+        </item>
+        <item>
+            Kapasitas Baterai 4500mAh
+        </item>
+    </string-array>
+
+</resources>
