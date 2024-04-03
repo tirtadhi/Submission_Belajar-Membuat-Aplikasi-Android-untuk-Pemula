@@ -18,7 +18,7 @@ This repository is the result of my submission in [Dicoding](https://www.dicodin
      width="200" /> <img src="https://raw.githubusercontent.com/tirtadhi/Submission_Belajar-Membuat-Aplikasi-Android-untuk-Pemula/main/PageDetail.png"
      alt="Detail item page"
      style="float: left; margin-right: 10px;"
-     width="200" /><img src="https://raw.githubusercontent.com/tirtadhi/Submission_Belajar-Membuat-Aplikasi-Android-untuk-Pemula/main/PageAbout.png"
+     width="200" /><img src="https://raw.githubusercontent.com/tirtadhi/Submission_Belajar-Membuat-Aplikasi-Android-untuk-Pemula/main/PageAbouT.png"
      alt="About me page"
      style="float: left; margin-right: 10px;"
      width="200" />
