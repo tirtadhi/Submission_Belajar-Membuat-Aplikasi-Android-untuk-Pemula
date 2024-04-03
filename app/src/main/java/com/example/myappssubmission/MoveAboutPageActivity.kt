@@ -20,6 +20,6 @@ class MoveAboutPageActivity : AppCompatActivity() {
 
         // untuk mengatur nama
         tvItemName.text = "Tirta Adhi Samsara"
-        tvItemDescription.text = "adhisamsaratirta@gmail.com"
+        tvItemDescription.text = "email@gmail.com"
     }
 }
